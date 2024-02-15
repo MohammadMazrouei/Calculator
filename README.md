@@ -1,7 +1,7 @@
 
 # Calculator
 
-This calculator application is a versatile tool designed to perform a wide range of arithmetic operations. Built using the Qt framework, it offers a graphical user interface (GUI) for easy interaction with users. The application supports basic operations like addition, subtraction, multiplication, and division, as well as advanced functions such as modulus, power calculations, and handling of parentheses for complex expressions.
+This calculator application is a versatile tool designed to perform a wide range of arithmetic operations. Built using the Qt framework, it offers a graphical user interface (GUI) for easy interaction with users.
 
 ## Images of Calculator
 
